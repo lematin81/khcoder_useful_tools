@@ -14,7 +14,7 @@
 3. 各コードの名前
 4. 各コードの番号
 -上の要素の１，２のペアはこんなイメージになります。
-https://user-images.githubusercontent.com/71582166/130348804-a912fd85-70d3-4f96-b801-ff1f693ed8f7.jpg
+![table1](https://user-images.githubusercontent.com/71582166/130348804-a912fd85-70d3-4f96-b801-ff1f693ed8f7.jpg)
 -上の要素３、４のペアはこんなイメージになります。
 
 
