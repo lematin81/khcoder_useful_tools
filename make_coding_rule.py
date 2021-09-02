@@ -32,7 +32,7 @@ def write_file(list_of_string, path):
     print("■以下の場所にファイルを保存しました")
     print(path)
 
-#保存先とファイル名を確定さる
+#保存先とファイル名を確定する
 def chose_path(path):
     #同じフォルダに保存するか聞く
     print("■処理が終了しました。先ほどと同じフォルダにファイルを保存しますか？")
